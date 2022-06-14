@@ -14,11 +14,13 @@ While in one particular state, the player can change the state by performing a c
 
 ### Credits
 
-*   Alexander Steffen     - Product Owner
-*   Christoph Rauchegger  - Dev
-*   Georgi Kotsev         - MR Manager
-*   Kevin Nguyen          - MR Manager
-*   Momchil Petrov        - Dev
-*   Phil Neujahr          - Dev 
-*   Krutarth Parwal       - Dev
-*   Dennis Korolevych     - Scrum Master
+| Name    | Role         | 
+| ------ | ------------------- | 
+| Alexander Steffen    | Product Owner        | 
+| Christoph Rauchegger   | Dev        | 
+| Georgi Kotsev  | MR Manager        | 
+| Kevin Nguyen   | MR Manager       | 
+| Momchil Petrov    | Dev      |
+| Phil Neujahr    | Dev  |
+| Krutarth Parwal | Dev |
+| Dennis Korolevych | Scrum Master |
