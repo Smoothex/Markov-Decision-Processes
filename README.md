@@ -1,15 +1,11 @@
-# This project has been forked from the MTV GitLab server!
+# This project has been forked from the [MTV](https://www.mtv.tu-berlin.de/menue/home/) GitLab server!
 # You can play the game [here](https://pr.mtv.tu-berlin.de/modysy-2021sose/markov-decision-processes-2/master).
-
-### Short description
-Evacauate the aliens as quickly as possible.
 
 ### Game description
 A little dungeon crawler game, inspired by a crowd evacuation simulator that was also based on the Markov Decision Process.
-The fields represent different states that the player can switch to. The probability is implemented by a logic that splits the alien groups depending on which action field youre standing on.
-Action fields are marked with icons that have arrows inside.
+The fields represent different states that the player can switch to. The probability is implemented by a logic that splits the alien groups depending on which action field the player is standing on.
+The action fields are all marked accordingly - there are split fields, group fields and death fields.
 The goal is to reach the exit with as many aliens as possible and within the limit of movements.
-Mind the flames when striving through the field.
 
 ### Theoretical background
 The theoretical concept that this game is based on [Markov Decision Processes (MDP)](https://en.wikipedia.org/wiki/Markov_decision_process).
