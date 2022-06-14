@@ -8,9 +8,9 @@ The action fields are all marked accordingly - there are split fields, group fie
 The goal is to reach the exit with as many aliens as possible and within the limit of movements.
 
 ### Theoretical background
-The theoretical concept that this game is based on [Markov Decision Processes (MDP)](https://en.wikipedia.org/wiki/Markov_decision_process).
+The theoretical concept that this game is based on is called [Markov Decision Processes (MDP)](https://en.wikipedia.org/wiki/Markov_decision_process).
 The core principle of the mathematical model is to either maximize the reward or the cost by switching states.
-While in one particular state, the player can change the state by performing a certain action.
+While in one particular state, the player can change the state by performing a certain action. The game is decision-making with the different outcomes (when changing a state) being partly random and partly controllable - this is what MDP is mainly used for.
 
 ### Credits
 
