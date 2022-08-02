@@ -1,5 +1,5 @@
 # This project has been forked from the [MTV](https://www.mtv.tu-berlin.de/menue/home/) GitLab server!
-# You can play the game [here](https://pr.mtv.tu-berlin.de/modysy-2021sose/markov-decision-processes-2/master)
+# You can play the game [here](https://pr.mtv.tu-berlin.de/2021sose-evakuierung)
 # Short demo available [here](https://youtu.be/KSHAEq6LcC4)
 
 ### Game description
